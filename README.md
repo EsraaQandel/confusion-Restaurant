@@ -1,6 +1,6 @@
 # confusion-Restaurant
 
-## to quickly run the app 
+# To quickly run the app 
 - cd to json-server then open a terminal and write 'json-server --watch db.json'
 
 # Detials
