@@ -1,0 +1,6 @@
+The fast way :
+ - run in an ineternal terminal the following command 'gulp watch'
+
+The detials:
+1- open the dist and run the html file there
+2- the edits are done in the app folder then you run 'gulp' in an internal terminal 
