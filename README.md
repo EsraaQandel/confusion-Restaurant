@@ -13,4 +13,5 @@
  - when tracing an error don't do it on the server caz all the JS files are now merged in one files, maybe you can run the        index.html , that is inside the app folder on Firefox and start tracing the error!  
 
 # Requirments 
-  Nodejs, npm,gulp and bower 
+  Nodejs, npm,gulp and json-server
+ 
